@@ -5,7 +5,7 @@
 M-Simpler is an innovative AI application designed to simplify the interpretation of medical documents, addressing the complex nature of medical terminology that often hinders effective communication in healthcare. By leveraging advanced AI capabilities, M-Simpler streamlines the comprehension of medical information for both professionals and patients, thus enhancing healthcare communication, empowering individuals, and facilitating medical research. This report explores the potential of M-Simpler to revolutionize medical document interpretation, highlighting its role in bridging communication gaps and advancing the accessibility of critical healthcare information. Additionally, it examines the challenges and considerations involved in integrating AI-driven solutions into healthcare practices, offering insights into the opportunities and obstacles in realizing the full potential of AI in healthcare communication.
 
 ## Usage
-1. Access the application through your browser at https://healthcare-chatbot-vhzr.onrender.com (It may take upto 1 min to load the webpage for the first time run). Or the  
+1. Access the application through your browser at [M-simpler](https://healthcare-chatbot-vhzr.onrender.com/) (It may take upto 1 min to load the webpage for the first time run). Or the  
 2. Register or log in to your account.
 3. Interact with the chatbot by typing your message in the input field and  uploading an image and lastly pressing Enter or clicking the send button.
 4. Logout when finished
